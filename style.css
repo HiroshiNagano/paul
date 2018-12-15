@@ -44,9 +44,10 @@ p{
 }
 
 .footer {
-   width: auto; 
+  width: auto; 
+  line-height: 5;
 }
 
 div{
-    line-height: 0;
+    line-height: 5;
 }
