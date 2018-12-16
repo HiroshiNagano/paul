@@ -43,11 +43,15 @@ p{
   width: auto;  
 }
 
-.footer {
+.footer { 
   width: auto; 
   line-height: 5;
 }
 
 div{
     line-height: 5;
+}
+
+a {
+  color:gray;
 }
